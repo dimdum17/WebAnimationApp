@@ -1,0 +1,18 @@
+{
+  "title": "Gerakinaja - Stunning Animations Effortlessly",
+  "description": "Create stunning animations effortlessly with this web app, designed for users seeking to produce high-quality visuals with easy export options up to 2K.",
+  "language": "en",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
